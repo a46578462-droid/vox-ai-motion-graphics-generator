@@ -240,6 +240,9 @@ This is an **agent skill** — Claude Code auto-loads it from `SKILL.md`; Codex 
 
 ## 🔗 Related Projects
 
+- [MuAPI](https://muapi.ai) — Unified API for the image, video, speech, voice, and music models used by this pipeline.
+- [MuAPI video generation docs](https://muapi.ai/docs/video-generation) — API guidance for the image-to-video and text-to-video stages.
+- [MuAPI music and speech docs](https://muapi.ai/docs/music-and-speech) — API guidance for narration, voice cloning, and background-music generation.
 - [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) — agentic AI micro-drama video generator
 - [AI-B-roll](https://github.com/Anil-matcha/AI-B-roll) — auto-generate AI b-roll for your videos
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — generate full videos from text
